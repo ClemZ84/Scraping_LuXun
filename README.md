@@ -1,4 +1,4 @@
-# Scraping-Lu-Xun
+# Scraping_LuXun
 一个自用的小小爬虫脚本，能够爬取北京鲁迅博物馆中的鲁迅书信和日记
 
 ## 功能
